@@ -1,7 +1,7 @@
 # Crimson Notepad
 
 <p align="center">
-  <img src="assets/logo.png" alt="Crimson Notepad Logo" width="150"/>
+  <img src="./assets/logo.png" alt="Crimson Notepad Logo" width="150">
 </p>
 
 <h3 align="center">
